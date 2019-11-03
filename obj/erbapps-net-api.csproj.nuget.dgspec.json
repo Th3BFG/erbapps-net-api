@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/th3bfg/Source/erbapps-net-api/erbapps-net-api/erbapps-net-api.csproj": {}
+  },
+  "projects": {
+    "/home/th3bfg/Source/erbapps-net-api/erbapps-net-api/erbapps-net-api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/th3bfg/Source/erbapps-net-api/erbapps-net-api/erbapps-net-api.csproj",
+        "projectName": "erbapps-net-api",
+        "projectPath": "/home/th3bfg/Source/erbapps-net-api/erbapps-net-api/erbapps-net-api.csproj",
+        "packagesPath": "/home/th3bfg/.nuget/packages/",
+        "outputPath": "/home/th3bfg/Source/erbapps-net-api/erbapps-net-api/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/th3bfg/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
