@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "erbapps_net_api": {
+    "ErbAppsAPI": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "api/values",

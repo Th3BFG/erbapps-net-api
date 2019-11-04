@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 
-namespace erbapps_net_api
+namespace ErbAppsAPI
 {
     public class Program
     {

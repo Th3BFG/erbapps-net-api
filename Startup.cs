@@ -5,7 +5,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.OpenApi.Models;
 
-namespace erbapps_net_api
+namespace ErbAppsAPI
 {
     public class Startup
     {
